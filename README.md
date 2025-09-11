@@ -26,7 +26,7 @@
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 **Email:** yourmail@gmail.com  
+- 📧 **Email:** vaibhawrajput05@gmail.com  
 - 🐦 [Twitter/X](https://x.com/your-link)  
 
 ---

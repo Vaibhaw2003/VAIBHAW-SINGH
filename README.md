@@ -27,7 +27,7 @@
 ## 🌍 Connect with Me
 - 💼 www.linkedin.com/in/05vaibhaw-singh
 - 📧 **Email:** vaibhawrajput05@gmail.com  
-- 🐦 [Twitter/X](https://x.com/your-link)  
+- 🐦 https://www.instagram.com/05__marco__/
 
 ---
 ✨ _“Code. Learn. Build. Repeat.”_  

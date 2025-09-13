@@ -25,7 +25,7 @@
 ---
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/05vaibhaw-singh)  
+- 💼 www.linkedin.com/in/05vaibhaw-singh
 - 📧 **Email:** vaibhawrajput05@gmail.com  
 - 🐦 [Twitter/X](https://x.com/your-link)  
 

@@ -27,7 +27,7 @@
 I'm a dedicated **Software Developer** with a passion for creating scalable web apps, crafting elegant backend systems, and contributing to open-source.  
 I love Python, JavaScript, and solving real-world problems.
 
-### ⭐ What I Do
+### ⭐ What I Do 
 - ⚡ Full-Stack Web Development  
 - 🐍 Python APIs (Django, Flask, FastAPI)  
 - 💻 JavaScript + TypeScript  
